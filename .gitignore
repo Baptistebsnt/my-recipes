@@ -1,0 +1,26 @@
+### Java / Spring Boot ###
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+logs/
+!src/main/resources/
+
+### IntelliJ / Eclipse ###
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Node.js (pour ton futur front) ###
+node_modules/
+dist/
+build/
+.env
