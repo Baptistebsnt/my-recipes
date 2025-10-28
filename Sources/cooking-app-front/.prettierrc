@@ -1,0 +1,9 @@
+{
+  "trailingComma": "all",
+  "semi": false,
+  "tabWidth": 2,
+  "routesDirectory": "./src/routes",
+  "generatedRouteTree": "./src/routeTree.gen.ts",
+  "routeFileIgnorePrefix": "-",
+  "quoteStyle": "single"
+}
